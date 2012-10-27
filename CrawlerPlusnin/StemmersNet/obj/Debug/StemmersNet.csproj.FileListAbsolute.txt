@@ -1,0 +1,5 @@
+C:\Users\shadow\documents\visual studio 2010\Projects\NewsCrawler\StemmersNet\bin\Debug\StemmersNet.dll
+C:\Users\shadow\documents\visual studio 2010\Projects\NewsCrawler\StemmersNet\bin\Debug\StemmersNet.pdb
+C:\Users\shadow\documents\visual studio 2010\Projects\NewsCrawler\StemmersNet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shadow\documents\visual studio 2010\Projects\NewsCrawler\StemmersNet\obj\Debug\StemmersNet.dll
+C:\Users\shadow\documents\visual studio 2010\Projects\NewsCrawler\StemmersNet\obj\Debug\StemmersNet.pdb

@@ -1,0 +1,14 @@
+c:\users\shadow\documents\visual studio 2010\Projects\NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.dll
+c:\users\shadow\documents\visual studio 2010\Projects\NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.pdb
+c:\users\shadow\documents\visual studio 2010\Projects\NewsCrawler\NewsCrawler\bin\Debug\HtmlAgilityPack.pdb
+c:\users\shadow\documents\visual studio 2010\Projects\NewsCrawler\NewsCrawler\bin\Debug\HtmlAgilityPack.xml
+c:\users\shadow\documents\visual studio 2010\Projects\NewsCrawler\NewsCrawler\bin\Debug\MongoDB.Bson.pdb
+c:\users\shadow\documents\visual studio 2010\Projects\NewsCrawler\NewsCrawler\bin\Debug\MongoDB.Bson.xml
+c:\users\shadow\documents\visual studio 2010\Projects\NewsCrawler\NewsCrawler\bin\Debug\MongoDB.Driver.pdb
+c:\users\shadow\documents\visual studio 2010\Projects\NewsCrawler\NewsCrawler\bin\Debug\MongoDB.Driver.xml
+c:\users\shadow\documents\visual studio 2010\Projects\NewsCrawler\NewsCrawler\obj\Debug\ResolveAssemblyReference.cache
+c:\users\shadow\documents\visual studio 2010\Projects\NewsCrawler\NewsCrawler\obj\Debug\NewsCrawler.dll
+c:\users\shadow\documents\visual studio 2010\Projects\NewsCrawler\NewsCrawler\obj\Debug\NewsCrawler.pdb
+C:\Users\shadow\Documents\Visual Studio 2010\Projects\NewsCrawler\NewsCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\shadow\documents\visual studio 2010\Projects\NewsCrawler\NewsCrawler\bin\Debug\StemmersNet.dll
+C:\Users\shadow\documents\visual studio 2010\Projects\NewsCrawler\NewsCrawler\bin\Debug\StemmersNet.pdb
