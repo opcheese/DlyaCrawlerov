@@ -1,0 +1,15 @@
+c:\users\андрей\documents\visual studio 2012\Projects\HierarchicalClassification\HierarchicalClassification\bin\Debug\HierarchicalClassification.exe.config
+C:\Users\Андрей\documents\visual studio 2012\Projects\HierarchicalClassification\HierarchicalClassification\obj\Debug\HierarchicalClassification.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\documents\visual studio 2012\Projects\HierarchicalClassification\HierarchicalClassification\obj\Debug\HierarchicalClassification.Form1.resources
+C:\Users\Андрей\documents\visual studio 2012\Projects\HierarchicalClassification\HierarchicalClassification\obj\Debug\HierarchicalClassification.Properties.Resources.resources
+C:\Users\Андрей\documents\visual studio 2012\Projects\HierarchicalClassification\HierarchicalClassification\obj\Debug\HierarchicalClassification.csproj.GenerateResource.Cache
+C:\Users\Андрей\documents\visual studio 2012\Projects\HierarchicalClassification\HierarchicalClassification\bin\Debug\HierarchicalClassification.exe
+C:\Users\Андрей\documents\visual studio 2012\Projects\HierarchicalClassification\HierarchicalClassification\bin\Debug\HierarchicalClassification.pdb
+C:\Users\Андрей\documents\visual studio 2012\Projects\HierarchicalClassification\HierarchicalClassification\bin\Debug\MongoDB.Bson.dll
+C:\Users\Андрей\documents\visual studio 2012\Projects\HierarchicalClassification\HierarchicalClassification\bin\Debug\MongoDB.Driver.dll
+C:\Users\Андрей\documents\visual studio 2012\Projects\HierarchicalClassification\HierarchicalClassification\bin\Debug\MongoDB.Bson.pdb
+C:\Users\Андрей\documents\visual studio 2012\Projects\HierarchicalClassification\HierarchicalClassification\bin\Debug\MongoDB.Bson.xml
+C:\Users\Андрей\documents\visual studio 2012\Projects\HierarchicalClassification\HierarchicalClassification\bin\Debug\MongoDB.Driver.pdb
+C:\Users\Андрей\documents\visual studio 2012\Projects\HierarchicalClassification\HierarchicalClassification\bin\Debug\MongoDB.Driver.xml
+C:\Users\Андрей\documents\visual studio 2012\Projects\HierarchicalClassification\HierarchicalClassification\obj\Debug\HierarchicalClassification.exe
+C:\Users\Андрей\documents\visual studio 2012\Projects\HierarchicalClassification\HierarchicalClassification\obj\Debug\HierarchicalClassification.pdb
