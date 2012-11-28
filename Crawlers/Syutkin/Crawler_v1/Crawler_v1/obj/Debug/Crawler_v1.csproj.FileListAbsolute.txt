@@ -1,0 +1,36 @@
+c:\users\андрей\documents\visual studio 2012\Projects\Crawler_v1\Crawler_v1\bin\Debug\Crawler_v1.exe.config
+c:\users\андрей\documents\visual studio 2012\Projects\Crawler_v1\Crawler_v1\bin\Debug\Crawler_v1.exe
+c:\users\андрей\documents\visual studio 2012\Projects\Crawler_v1\Crawler_v1\bin\Debug\Crawler_v1.pdb
+c:\users\андрей\documents\visual studio 2012\Projects\Crawler_v1\Crawler_v1\obj\Debug\Crawler_v1.csprojResolveAssemblyReference.cache
+c:\users\андрей\documents\visual studio 2012\Projects\Crawler_v1\Crawler_v1\obj\Debug\Crawler_v1.Properties.Resources.resources
+c:\users\андрей\documents\visual studio 2012\Projects\Crawler_v1\Crawler_v1\obj\Debug\Crawler_v1.csproj.GenerateResource.Cache
+c:\users\андрей\documents\visual studio 2012\Projects\Crawler_v1\Crawler_v1\obj\Debug\Crawler_v1.exe
+c:\users\андрей\documents\visual studio 2012\Projects\Crawler_v1\Crawler_v1\obj\Debug\Crawler_v1.pdb
+C:\Users\Андрей\documents\visual studio 2012\Projects\Crawler_v1\Crawler_v1\bin\Debug\MongoDB.Bson.dll
+C:\Users\Андрей\documents\visual studio 2012\Projects\Crawler_v1\Crawler_v1\bin\Debug\MongoDB.Driver.dll
+C:\Users\Андрей\documents\visual studio 2012\Projects\Crawler_v1\Crawler_v1\bin\Debug\MongoDB.Bson.pdb
+C:\Users\Андрей\documents\visual studio 2012\Projects\Crawler_v1\Crawler_v1\bin\Debug\MongoDB.Bson.xml
+C:\Users\Андрей\documents\visual studio 2012\Projects\Crawler_v1\Crawler_v1\bin\Debug\MongoDB.Driver.pdb
+C:\Users\Андрей\documents\visual studio 2012\Projects\Crawler_v1\Crawler_v1\bin\Debug\MongoDB.Driver.xml
+C:\Users\Андрей\documents\visual studio 2012\Projects\Crawler_v1\Crawler_v1\obj\Debug\Crawler_v1.FormMain.resources
+C:\Users\Андрей\documents\visual studio 2012\Projects\Crawler_v1\Crawler_v1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Андрей\documents\visual studio 2012\Projects\Crawler_v1\Crawler_v1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Андрей\documents\visual studio 2012\Projects\Crawler_v1\Crawler_v1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Андрей\Dropbox\For save\Crawler_v1\Crawler_v1\bin\Debug\Crawler_v1.exe.config
+C:\Users\Андрей\Dropbox\For save\Crawler_v1\Crawler_v1\obj\Debug\Crawler_v1.exe
+C:\Users\Андрей\Dropbox\For save\Crawler_v1\Crawler_v1\obj\Debug\Crawler_v1.pdb
+C:\Users\Андрей\Dropbox\For save\Crawler_v1\Crawler_v1\bin\Debug\Crawler_v1.exe
+C:\Users\Андрей\Dropbox\For save\Crawler_v1\Crawler_v1\bin\Debug\Crawler_v1.pdb
+C:\Users\Андрей\Dropbox\For save\Crawler_v1\Crawler_v1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Андрей\Dropbox\For save\Crawler_v1\Crawler_v1\bin\Debug\MongoDB.Bson.dll
+C:\Users\Андрей\Dropbox\For save\Crawler_v1\Crawler_v1\bin\Debug\MongoDB.Driver.dll
+C:\Users\Андрей\Dropbox\For save\Crawler_v1\Crawler_v1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Андрей\Dropbox\For save\Crawler_v1\Crawler_v1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Андрей\Dropbox\For save\Crawler_v1\Crawler_v1\bin\Debug\MongoDB.Bson.pdb
+C:\Users\Андрей\Dropbox\For save\Crawler_v1\Crawler_v1\bin\Debug\MongoDB.Bson.xml
+C:\Users\Андрей\Dropbox\For save\Crawler_v1\Crawler_v1\bin\Debug\MongoDB.Driver.pdb
+C:\Users\Андрей\Dropbox\For save\Crawler_v1\Crawler_v1\bin\Debug\MongoDB.Driver.xml
+C:\Users\Андрей\Dropbox\For save\Crawler_v1\Crawler_v1\obj\Debug\Crawler_v1.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Dropbox\For save\Crawler_v1\Crawler_v1\obj\Debug\Crawler_v1.FormMain.resources
+C:\Users\Андрей\Dropbox\For save\Crawler_v1\Crawler_v1\obj\Debug\Crawler_v1.Properties.Resources.resources
+C:\Users\Андрей\Dropbox\For save\Crawler_v1\Crawler_v1\obj\Debug\Crawler_v1.csproj.GenerateResource.Cache
